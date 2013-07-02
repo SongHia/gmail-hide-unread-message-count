@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
 
-  "name": "Unread message count hider for Gmail",
-  "description": "This extension hides the unread message count in your Gmail inbox.",
+  "name": "Unread message count hider for Gmail™",
+  "description": "This extension hides the unread message count in your Gmail™ inbox.",
   "version": "1.0",
 
   "content_scripts": [
