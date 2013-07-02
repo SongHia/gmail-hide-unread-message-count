@@ -1,0 +1,7 @@
+[title^='Inbox ('] {
+  visibility: hidden;
+}
+[title^='Inbox (']:before {
+  content: 'Inbox';
+  visibility: visible;
+}
