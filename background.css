@@ -3,5 +3,6 @@
 }
 [title^='Inbox (']:before {
   content: 'Inbox';
+  font-weight: normal;
   visibility: visible;
 }
