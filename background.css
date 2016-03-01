@@ -2,7 +2,7 @@
   visibility: hidden;
 }
 [title^='Inbox (']:before {
-  content: 'Inbox';
+  content: 'Inbox (9,999)';
   font-weight: normal;
   visibility: visible;
 }

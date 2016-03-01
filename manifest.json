@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
 
-  "name": "Unread message count hider for Gmail™",
-  "description": "This extension hides the unread message count in your Gmail™ inbox.",
-  "version": "1.0.1",
+  "name": "Decondition Gmail™",
+  "description": "This extension gves you a persistently stuffed Gmail™ inbox.",
+  "version": "0.1",
 
   "content_scripts": [
     {
